@@ -1,0 +1,3 @@
+﻿  ServerS.cpp
+F:\DUNIX_kernel\Lessons-master\1\Server\ServerS\ServerS.cpp(58,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  ServerS.vcxproj -> F:\DUNIX_kernel\Lessons-master\1\Server\x64\Debug\ServerS.exe
